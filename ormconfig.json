@@ -3,7 +3,7 @@
       "name": "default",
       "driver": {
         "type": "mysql",
-        "host" :"35.196.142.231",
+        "host" :"localhost",
         "port": 3306,
         "username": "root",
         "password": "Lync123*",
