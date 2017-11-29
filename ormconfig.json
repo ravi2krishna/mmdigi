@@ -3,14 +3,14 @@
       "name": "default",
       "driver": {
         "type": "mysql",
-        "host" :"35.202.92.50",
+        "host" :"35.196.142.231",
         "port": 3306,
         "username": "root",
-        "password": "Shashi123*",
+        "password": "Lync123*",
         "database": "milkman",
         "usePool": true
       },
-      "autoSchemaSync": false,
+      "autoSchemaSync": true,
       "entities": [
         "dist/models/entities/*.js"
       ],
